@@ -1,10 +1,5 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
 __author__ = 'Sahar'
+
 
 from random import randint
 random_number = randint(1, 8)
