@@ -1,8 +1,4 @@
-
-# coding: utf-8
-
-# In[10]:
-
+#function that can determine if an input number is a power of 2
 
 import math
 def sqrtt(x):
