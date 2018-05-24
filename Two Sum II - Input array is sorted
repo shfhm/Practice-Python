@@ -1,0 +1,9 @@
+#why len(a) is not working?
+
+def cf(a,target):
+    x=0
+    for i in a:
+        r=target-i
+        for x in range(len(a)-1):
+             if r == a[x]:
+                    print(a[x])
