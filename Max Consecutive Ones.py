@@ -1,10 +1,5 @@
-
-# coding: utf-8
-
-# In[4]:
-
-
 __author__ = 'Sahar'
+
 count=0
 list=[]
 for i in a:
