@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 __author__ = 'Sahar'
 
 list=[]
