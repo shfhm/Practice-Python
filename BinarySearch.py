@@ -1,10 +1,4 @@
 
-# coding: utf-8
-
-# In[2]:
-
-
-
 class node:
     def __init__(self, data=None, left=None, rigth=None):
         self.data=data
