@@ -10,3 +10,7 @@ https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/Bs
 MIT-Binary Search Trees(video)
 
 https://youtu.be/9Jry5-82I68
+
+Binary search with simple unit tests
+
+http://chinmayakrpatanaik.com/2016/06/01/Binary-Search-Tree-Python/
