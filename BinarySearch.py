@@ -1,4 +1,4 @@
-
+#Chinmaya's Blog
 class node:
     def __init__(self, data=None, left=None, rigth=None):
         self.data=data
