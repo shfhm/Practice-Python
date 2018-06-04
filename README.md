@@ -14,3 +14,6 @@ http://chinmayakrpatanaik.com/2016/06/01/Binary-Search-Tree-Python/
 Level Order Traversal of Binary Tree(Video)
 
 https://github.com/shfhm/
+
+Maximum Depth of Binary Tree
+https://youtu.be/YT1994beXn0
