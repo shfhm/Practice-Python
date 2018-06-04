@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[3]:
-
-
 #maxdepth level order iterative
 
 from collections import deque
@@ -32,7 +26,8 @@ class solution(object):
             q1=q2     
             count+=1
         return count
-        
+   
+
 s=solution()
 root=treenode(1)
 root.left=treenode(2)
