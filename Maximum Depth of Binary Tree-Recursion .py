@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
 #Maximum Depth of Binary Tree-Recursion 
 
 class treenode(object):
