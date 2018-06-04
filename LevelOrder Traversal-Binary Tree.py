@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[ ]:
-
-
 class treenode(object):  
     def __init__(self, x):
         self.val = x
@@ -16,7 +11,7 @@ class solution(object):
             return False 
         q1 = []
         q2 = []
-        res=[]
+        res = []
         q1.append(root)
         
         while((q1 is not None) or (q2 is not None)):
