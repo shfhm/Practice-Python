@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[5]:
-
-
 #minimum depth of a binary tree-recursion
 
 class treenode(object):
