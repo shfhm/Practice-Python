@@ -10,6 +10,8 @@ class solution(object):
     def MaxDepth(self, root):
         if(root == None):
             return 0 
+        if ((root.left == None) and (root.right==None)):
+            return 1
         return 1+max(self.MaxDepth(root.left), self.MaxDepth(root.right))
     
 s=solution()   
