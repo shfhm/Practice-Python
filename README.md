@@ -18,3 +18,7 @@ https://github.com/shfhm/
 Maximum Depth of Binary Tree
 
 https://youtu.be/YT1994beXn0
+
+Minimum Depth of a Binary Tree(Video)
+
+https://youtu.be/QaaclTlZqEU
