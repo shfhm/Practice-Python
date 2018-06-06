@@ -1,4 +1,5 @@
-#symmetric binary tree. Given a binary tree, check whether it is a mirror of itself.
+#symmetric binary tree. Given a binary tree, check whether it is a mirror of itself. 
+#Runtime: 44 ms
 __author__='Sahar'
 
 from collections import deque
