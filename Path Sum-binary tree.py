@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 #path sum
 
 class treenode(object):
@@ -20,7 +14,8 @@ class solution(object):
         if root.left != None or root.right != None:
             return self.pathsum(root.left, sum - root.val) or self.pathsum(root.right, sum - root.val)
         return False
-        
+  
+
 s=solution()
 root=treenode(5)
 root.left=treenode(4)
