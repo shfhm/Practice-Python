@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 #symmetric binary tree. Given a binary tree, check whether it is a mirror of itself.
 
 __author__='Sahar'
