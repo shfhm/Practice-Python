@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[5]:
-
-
 class solution:
     def numJewelsInStones(self, J, S):
         """
