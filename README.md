@@ -23,6 +23,6 @@
 
    https://youtu.be/QaaclTlZqEU
 
--HashMap(Video)
+- HashMap(Video)
 
    https://youtu.be/9HFbhPscPU0
