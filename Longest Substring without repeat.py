@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[13]:
-
-
 import numpy as np
 class Solution:
     def lengthOfLongestSubstring(self, s):
