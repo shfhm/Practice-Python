@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[4]:
-
-
 import operator
 s="OHHNAAA"
 list=[]
