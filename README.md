@@ -26,3 +26,7 @@
 - HashMap(Video)
 
    https://youtu.be/9HFbhPscPU0
+
+- Creating Dictionary From a List
+
+   https://youtu.be/LcM8h2YoVfg
