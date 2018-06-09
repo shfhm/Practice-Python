@@ -27,10 +27,10 @@
 
    https://youtu.be/9HFbhPscPU0
 
-- Creating Dictionary From a List
+- Creating Dictionary From a List(Video)
 
    https://youtu.be/LcM8h2YoVfg
 
-- Longest Substring_Without Repeating
+- Longest Substring_Without Repeating(Video)
 
   https://youtu.be/sZosU8JjVaA
