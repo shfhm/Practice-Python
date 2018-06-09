@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[22]:
-
-
 __Author__= 'Sahar'
 
 class Solution(object):
@@ -24,7 +18,8 @@ class Solution(object):
                 max_len=max(max_len, end-start+1)
                 seen[s[end]]=end
         return(max_len)
-    
+ 
+
 #s="jxdlnaaij"
 s="tmmzuxt"
 t=Solution()
