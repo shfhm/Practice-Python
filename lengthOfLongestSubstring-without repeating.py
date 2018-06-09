@@ -1,4 +1,3 @@
-__Author__= 'Sahar'
 
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
