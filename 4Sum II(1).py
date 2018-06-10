@@ -1,11 +1,4 @@
-
-# coding: utf-8
-
-# In[7]:
-
-
 #4Sum II
-import collections
 from collections import Counter
 class Solution:
     def fourSumCount(self, A, B, C, D):
@@ -20,8 +13,8 @@ class Solution:
             return 0
         else: 
             count=0
-            AB = collections.Counter(a+b for a in A for b in B)
-            CD = collections.Counter(c+d for c in C for d in D)
+            AB = Counter(a+b for a in A for b in B)
+            CD = Counter(c+d for c in C for d in D)
             for k1,v1 in AB.items():
                 for k2,v2 in CD.items():        
                     if (k1 == k2):
