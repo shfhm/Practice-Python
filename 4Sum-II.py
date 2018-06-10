@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[164]:
-
-
 from collections import Counter
 class Solution:
     def fourSumCount(self, A, B, C, D):
