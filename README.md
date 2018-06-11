@@ -34,3 +34,9 @@
 - Longest Substring_Without Repeating(Video)
 
   https://youtu.be/sZosU8JjVaA
+
+- Group and Count with Dictionaries
+
+ https://codefisher.org/catch/blog/2015/04/22/python-how-group-and-count-dictionaries/
+ 
+ 
