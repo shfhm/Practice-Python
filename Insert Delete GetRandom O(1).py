@@ -1,16 +1,11 @@
-
-# coding: utf-8
-
-# In[15]:
-
-
 #Insert Delete GetRandom O(1)
-
 import random
 class solution(object):
+    
     def __init__(self):
         self.set=[]
         self.index={}
+        
     def insert(self, val):
         if val in self.set:
             return False
@@ -22,9 +17,7 @@ class solution(object):
     def remove(self, val):
         if val not in self.set:
             return False
-        
         self.index[self.set[-1]]=self.index[val]
-        
         self.set.pop()
         self.index.pop(val)
         return self.set, self.index
