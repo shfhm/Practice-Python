@@ -35,8 +35,11 @@
 
   https://youtu.be/sZosU8JjVaA
 
-- Group and Count with Dictionaries
+- Group and Count with Dictionaries (Video)
 
   https://codefisher.org/catch/blog/2015/04/22/python-how-group-and-count-dictionaries/
  
+ - Trie (Video)
+ 
+ https://youtu.be/AXjmTQ8LEoI
  
