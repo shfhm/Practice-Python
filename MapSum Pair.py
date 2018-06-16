@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[3]:
-
 
 class Mapsum:
     def __init__(self):
@@ -18,6 +14,7 @@ class Mapsum:
             if key.find(prefix) == 0:
                 sum+=self.map[key]    #val
         return sum
+    
     
 T=Mapsum()
 T.insert("darabe",3)
