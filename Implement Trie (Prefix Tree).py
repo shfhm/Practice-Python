@@ -1,10 +1,5 @@
-
-# coding: utf-8
-
-# In[21]:
-
-
 #Trie
+
 class Trienode:
     def __init__(self):
         self.children = {}
@@ -20,6 +15,7 @@ class Trie:
                 cur.children[char]=Trienode()
             cur=cur.children[char]
         cur.endofword = True
+        
     def search(self, word):
         cur = self.root
         for char in word:
@@ -40,6 +36,7 @@ class Trie:
                 return False
             cur=cur.children[char]
         return True
+    
     
 T=Trie()
 T.insert("adab")
