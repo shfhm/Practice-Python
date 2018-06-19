@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[11]:
-
-
 class Trienode(object):
     def __init__(self):
         self.dict={}
@@ -27,11 +22,12 @@ class AddWords(object):
         cur=self.root
         for char in word:
             child=cur.dict.get(char)
-            if child is None:         #search whole word
+            if child is None:          #search whole word
                 return False
             else:
                 cur=child
         return cur.ends
+    
     
 s=AddWords()
 print(s.insert('ab'))
