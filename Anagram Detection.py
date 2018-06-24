@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 #Aanagram detection
 #Big-O is o(n^2)
 
@@ -25,6 +19,7 @@ def sol(s1,s2):
         else:
             matches = False
     return matches
+    
     
 print(sol('snbgf','fbsng'))
 print(sol('snbgl','fbsng'))
