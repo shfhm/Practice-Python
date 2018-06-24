@@ -1,4 +1,4 @@
-#Aanagram detection
+#Aanagram detection- Sort and Compare
 #Big-O is o(n^2)
 
 """
