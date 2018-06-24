@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[18]:
-
-
 #Anagram Detection-Count and Compare
 
 def Solution(s1,s2):
