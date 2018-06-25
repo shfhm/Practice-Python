@@ -1,8 +1,4 @@
-
-# coding: utf-8
-
-# In[21]:
-
+#problem solving with algorithms and data structures
 
 class Stack:
     def __init__(self):
