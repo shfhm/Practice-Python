@@ -1,10 +1,4 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
-#convert decimal to binary string
+#convert decimal to binary string_problem solving with algorithms and datastructures
 
 class stack:
     def __init__(self):
@@ -31,6 +25,7 @@ class solution:
         while not s.is_empty():
             bin_str = bin_str + str(s.pop())    #append to string
         return bin_str
+    
     
 print(solution.dec_to_bin(10))
 
